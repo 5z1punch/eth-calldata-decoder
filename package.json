@@ -14,7 +14,7 @@
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
-    "abi-decoder": "^2.4.0",
+    "abi-decoder": "github:5z1punch/abi-decoder#5b275f7c0697c4e758ef5da313751201aaf7bb0c",
     "axios": "^0.21.1",
     "ethereum-checksum-address": "^0.0.6",
     "ethers": "^5.7.1",
